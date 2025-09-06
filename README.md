@@ -17,7 +17,7 @@ Genetic factors such as variants in genes involved in immune regulation and insu
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/diabetes-genes-kidney-rejection.git
+   git clone https://github.com/roberto-casale/diabetes-genes-kidney-rejection.git
    cd diabetes-genes-kidney-rejection
    ```
 2. Open the notebook with Jupyter:
